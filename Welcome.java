@@ -1,5 +1,5 @@
 public class Welcome{
-  public static vois main (String[] args)
+  public static void main (String[] args)
   {
-    System.ot.println("Welcome");
+    System.out.println("Welcome");
       }}
